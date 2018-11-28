@@ -1,4 +1,4 @@
-package com.brookdale.ws;
+package org.fun.eva.ws;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
